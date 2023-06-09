@@ -1,2 +1,2 @@
 #gitのコミットテスト
-added this line with vim
+#added this line with vim
